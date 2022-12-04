@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "MotionProgessLoader"
 include ':app'
 include ':motionloader'
+include ':motionloadercompose'
