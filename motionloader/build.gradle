@@ -54,7 +54,7 @@ afterEvaluate {
 
                 groupId = 'com.github.ayushmanic'
                 artifactId = 'motionloader'
-                version = '1.3'
+                version = '1.4'
             }
         }
     }
