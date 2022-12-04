@@ -24,7 +24,8 @@ dependencies {
     }
 ```
 
-## Custom Lottie
+### Addition of Custom Lottie
+
 ```
  val motionProgressLoaderView = MotionProgressLoaderView.Builder(requireContext())
             .setLottieAsset(drawableInt) // R.raw.lottieFiles
