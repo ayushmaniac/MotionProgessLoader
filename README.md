@@ -2,6 +2,8 @@
 
 :zap: A powerful & easy to use Progress Dialog for Android :zap:
 
+![](https://cdn-images-1.medium.com/max/1600/0*3IokY5FD0deASOEZ.gif)
+
 
 ### Gradle Setup
 
